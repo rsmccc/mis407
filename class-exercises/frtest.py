@@ -1,4 +1,4 @@
-__author__ = 'sree'
+__author__ = 'rsmccc'
 import csv
 with open ('banklist.csv') as f:
   f_csv = csv.reader(f)
